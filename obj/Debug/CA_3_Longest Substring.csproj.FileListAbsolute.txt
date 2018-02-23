@@ -1,0 +1,7 @@
+C:\Users\Chuan\Project\CA_3_Longest Substring\CA_3_Longest Substring\bin\Debug\CA_3_Longest Substring.exe.config
+C:\Users\Chuan\Project\CA_3_Longest Substring\CA_3_Longest Substring\bin\Debug\CA_3_Longest Substring.exe
+C:\Users\Chuan\Project\CA_3_Longest Substring\CA_3_Longest Substring\bin\Debug\CA_3_Longest Substring.pdb
+C:\Users\Chuan\Project\CA_3_Longest Substring\CA_3_Longest Substring\obj\Debug\CA_3_Longest Substring.csprojResolveAssemblyReference.cache
+C:\Users\Chuan\Project\CA_3_Longest Substring\CA_3_Longest Substring\obj\Debug\CA_3_Longest Substring.csproj.CoreCompileInputs.cache
+C:\Users\Chuan\Project\CA_3_Longest Substring\CA_3_Longest Substring\obj\Debug\CA_3_Longest Substring.exe
+C:\Users\Chuan\Project\CA_3_Longest Substring\CA_3_Longest Substring\obj\Debug\CA_3_Longest Substring.pdb
